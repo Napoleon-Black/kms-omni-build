@@ -8,7 +8,7 @@
 	master = master
 [submodule "kms-core"]
 	path = kms-core
-	url = git://github.com/Kurento/kms-core.git
+	url = git://github.com/Napoleon-Black/kms-core.git
 	master = master
 [submodule "kurento-module-creator"]
 	path = kurento-module-creator
